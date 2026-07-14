@@ -18,7 +18,7 @@ To build a strong foundation in Python and gradually transition into:
 
 ### Core Python
 - [x] Variables
-- [ ] Data Types
+- [x] Data Types
 - [ ] Type Casting
 - [ ] Input / Output
 - [ ] Operators
@@ -68,6 +68,13 @@ To build a strong foundation in Python and gradually transition into:
 Each file represents a topic I have learned, practiced, and understood during my journey.
 
 ## 🚀 Current Progress
+
+Current Topic:
+
+```text
+001_variables.py
+002.datatypes.py
+```
 
 ## 📅 Started
 
