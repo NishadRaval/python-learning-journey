@@ -1,87 +1,73 @@
 # 🐍 Python Learning Journey
 
-Welcome to my Python learning journey.
+Welcome to my Python Learning Journey.
 
-This repository documents my progress as I learn Python from the fundamentals to advanced topics such as Object-Oriented Programming, Data Analysis, Machine Learning, and Artificial Intelligence.
+This repository documents my journey of rebuilding Python knowledge from the very basics all the way to Artificial Intelligence and Machine Learning.
 
-## 🎯 Goal
+The goal is not simply to learn Python, but to develop strong programming fundamentals, build consistency, improve Git and GitHub skills through daily usage, and create a public timeline of growth as an engineer.
 
-To build a strong foundation in Python and gradually transition into:
+---
 
-- Python Development
-- Data Analysis
-- Machine Learning
-- Artificial Intelligence
-- Automation
+## 🎯 Goals
 
-## 📚 Learning Roadmap
+* Build strong Python fundamentals.
+* Learn Git and GitHub naturally through regular usage.
+* Develop problem-solving skills.
+* Transition into Machine Learning and Artificial Intelligence.
+* Create a public record of long-term consistency and improvement.
 
-### Core Python
-- [x] Variables
-- [x] Data Types
-- [ ] Type Casting
-- [ ] Input / Output
-- [ ] Operators
-- [ ] Strings
-- [ ] Lists
-- [ ] Tuples
-- [ ] Dictionaries
-- [ ] Sets
-- [ ] Conditional Statements
-- [ ] Loops
-- [ ] Functions
-- [ ] Recursion
-- [ ] File Handling
+---
 
-### Object-Oriented Programming
-- [ ] Classes and Objects
-- [ ] Constructors
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Encapsulation
-- [ ] Abstraction
+## 📚 Roadmap
 
-### Advanced Python
-- [ ] Modules and Packages
-- [ ] Exception Handling
-- [ ] Decorators
-- [ ] Generators
-- [ ] Iterators
+```text
+Python Fundamentals
+        ↓
+Object Oriented Programming
+        ↓
+Python Projects
+        ↓
+Machine Learning
+        ↓
+Artificial Intelligence
+```
 
-### Data Science and AI
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Matplotlib
-- [ ] Scikit-Learn
-- [ ] Machine Learning
-- [ ] Deep Learning
+---
 
 ## 📂 Repository Structure
+
+Each topic is stored in its own file.
 
 ```text
 001_variables.py
 002_datatypes.py
 003_typecasting.py
+004_input_output.py
+005_operators.py
 ...
 ```
 
-Each file represents a topic I have learned, practiced, and understood during my journey.
+The numbering reflects the order in which concepts were learned and revisited throughout the journey.
 
-## 🚀 Current Progress
+---
 
-Current Topic:
+## 🔄 Workflow
 
-```text
-001_variables.py
-002.datatypes.py
-```
+1. Learn and practice concepts locally.
+2. Recreate important concepts in this repository in a cleaner format.
+3. Commit regularly.
+4. Continue building consistently.
+
+---
+
+## 🚀 Philosophy
+
+> Small progress repeated consistently becomes massive progress over time.
+
+This repository is intended to show growth, consistency, and the evolution of skills over time rather than perfection from day one.
+
+---
 
 ## 📅 Started
 
 July 2026
-
-## 💡 Philosophy
-
-Small progress every day is still progress.
-
-Consistency beats intensity.
